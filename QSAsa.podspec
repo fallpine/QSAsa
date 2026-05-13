@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name          = "QSAsa"
-  spec.version       = "1.0.0"
+  spec.version       = "1.0.1"
   spec.summary       = "注册、归因"
   spec.description   = "注册、归因工具"
   spec.homepage      = "https://github.com/fallpine/QSAsa"
