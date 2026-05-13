@@ -1,0 +1,13 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'QSAsa' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+  
+  pod 'CryptoSwift', '1.10.0'
+  pod 'QSJsonParser', '1.0.2'
+  pod 'QSIpLocation', '1.0.4'
+  pod 'QSNetRequest', '1.0.3'
+
+end
